@@ -110,4 +110,4 @@ student-registration-system/
 
 📬 Support
 For any queries, feedback, or support, feel free to reach out at:
-📧 venkateswararaokukkala.y@gmail.com
+📧 venkateswararaokukkala.y@gmail.com.
