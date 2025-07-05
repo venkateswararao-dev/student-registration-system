@@ -108,5 +108,6 @@ student-registration-system/
 - **Search & Sort:** Easier navigation of lists.
 - **Authentication:** Add user login/logout and access control.
 
-Support: 
-   For any queries, please contact venkateswararaokukkala.y@gmail.com.
+📬 Support
+For any queries, feedback, or support, feel free to reach out at:
+📧 venkateswararaokukkala.y@gmail.com
